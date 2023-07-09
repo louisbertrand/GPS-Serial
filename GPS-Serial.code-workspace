@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "GPS-Serial",
+			"path": "GPS-Serial"
+		}
+	],
+	"settings": {}
+}
